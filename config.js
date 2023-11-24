@@ -10,8 +10,8 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281998425782', '© AnggaKz', true],
-  ['6281998425782']
+  ['17025125830', '© Owner', true],
+  ['17025125830']
 ] // Nomor Owner
 
 global.mods = ['6281998425782'] 
@@ -39,17 +39,17 @@ global.APIs = { // API Prefix
 global.nama = '© AnggaKz' // nama owner
 global.nomor = '6281998425782' // nomor owner
 global.nans = '© Bot Discord' // nama bot 
-global.thumb = 'https://telegra.ph/file/a8c77ca227fe1041183b6.jpg' // thumbnail bot ( foto menu )
+global.thumb = 'https://telegra.ph/file/43c73050ff465b43fc110.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p' // link group yang ada di menu
 
 // Sticker wm
-global.packname = '© Bot Discord MD✅ (0831-9148-6089)┃ᴮᴼᵀ' 
+global.packname = '© Bot Discord MD✅ (0819-9842-57822)┃ᴮᴼᵀ' 
 global.author = '✅jika ingin sewabot silahkan chat ownerbot (081998425782)' 
 global.fgig = 'https://www.instagram.com/anggatzi123' // bebas tapi jangan kosong 
 global.fgsc = 'https://www.instagram.com/anggatzi123' // bebas tapi jangan kosong
 global.fgyt = 'https://www.instagram.com/anggatzi123' // bebas tapi jangan kosong
 global.fgpyp = 'https://www.instagram.com/anggatzi123' // bebas tapi jangan kosong
-global.fglog = 'https://telegra.ph/file/a8c77ca227fe1041183b6.jpg'
+global.fglog = 'https://telegra.ph/file/43c73050ff465b43fc110.jpg'
 
 // Other
 global.dana = '6281998425782'
