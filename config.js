@@ -36,14 +36,14 @@ global.APIs = { // API Prefix
 }
 
 // Watermark
-global.nama = '© AnggaKz' // nama owner
-global.nomor = '6281998425782' // nomor owner
-global.nans = '© Bot Discord' // nama bot 
+global.nama = '© owner' // nama owner
+global.nomor = '17025125830' // nomor owner
+global.nans = '© Bot BETELGEUSE' // nama bot 
 global.thumb = 'https://telegra.ph/file/43c73050ff465b43fc110.jpg' // thumbnail bot ( foto menu )
 global.dygp = 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p' // link group yang ada di menu
 
 // Sticker wm
-global.packname = '© Bot Discord MD✅ (0819-9842-57822)┃ᴮᴼᵀ' 
+global.packname = '© Bot BETELGEUSE MD✅ (0819-9842-57822)┃ᴮᴼᵀ' 
 global.author = '✅jika ingin sewabot silahkan chat ownerbot (081998425782)' 
 global.fgig = 'https://www.instagram.com/anggatzi123' // bebas tapi jangan kosong 
 global.fgsc = 'https://www.instagram.com/anggatzi123' // bebas tapi jangan kosong
